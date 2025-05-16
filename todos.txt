@@ -1,1 +1,0 @@
- 1) index.tsx : Default nur Bier anzeigen, Weitere Alkoholarten durch + hinzufügen -> werden dann dynamisch gerendert 
